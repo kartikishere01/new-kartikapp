@@ -122,7 +122,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-name = st.text_input("Enter your Name", placeholder="Kartik, Priya, etc.")
+name = st.text_input("Enter your Name", placeholder="Kartik, Rajveer, etc.")
 
 st.markdown(
     "<h3 style='margin-top:1.5rem;'>Tell us just the basics</h3>",
@@ -337,3 +337,4 @@ st.markdown(
     """,
     unsafe_allow_html=True,
 )
+
